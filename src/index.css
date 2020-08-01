@@ -1,0 +1,38 @@
+
+*{
+  
+  color:"white";
+  padding:"30px";
+  display:"flex";
+  /*flex-Direction:"column";*/
+  
+}
+
+#container { 
+  display: flex; 
+  flex-direction: row; 
+  width: 100%; 
+} 
+ 
+#spacer { 
+  flex: 1; 
+} 
+
+body{
+  
+  align-items: center;
+}
+
+/*#container li{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  }
+  #spacer {
+  flex: 1;
+  }*/
+
+  
+
+
+
