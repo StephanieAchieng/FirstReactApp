@@ -1,12 +1,19 @@
-
-*{
+.style {
+  background-color:gold;
+}
+.img-container {
+  text-align: center;
+  display:inline-block;
+  background-color: aqua;
+}
+/*{
   
   color:"white";
   padding:"30px";
   display:"flex";
   /*flex-Direction:"column";*/
   
-}
+/*}
 
 #container { 
   display: flex; 
@@ -21,8 +28,7 @@
 body{
   
   align-items: center;
-}
-
+}*/
 /*#container li{
   display: flex;
   flex-direction: row;
